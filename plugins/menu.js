@@ -38,18 +38,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-*Hai,* %name! 👋
-*Hari:* %week
-*Bulan:* %date
-*Waktu:* %time
-*Uptime:* %uptime (%muptime)
-*Database:* %rtotalreg of %totalreg 
-*Prefix:* *[ %p ]*
-
-*Nama:* %name
-*Limit:* %limit
-*Level:* %level
-*XP:* %exp
+ ✓
 `.trimStart(),
   header: '*%category*',
   body: '•%cmd %islimit %isPremium',
