@@ -144,8 +144,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 		const url = 'https://telegra.ph/file/929e9ddaa5b7249d7d49a.png'
 		conn.sendButton(m.chat, text.trim(), '©' + author, url, [
-			[`Speed`, `.speed`],
-			[`Donasi`, `.donasi`]
+			[`❤️❤️❤️❤️❤️`, `.menu`],
+			[`❤️❤️❤️❤️❤️`, `.menu`]
 	], false, {
 			asLocation: true
 		})
