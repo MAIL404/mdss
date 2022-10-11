@@ -8,11 +8,10 @@
 > **Warning**: 
 > Jika kamu menemukan semacam bug, laporkan kepada creator 
 
-- Telah dilakukan pengoptimalan kinerja bot dengan menghapus button mengganggu berjalan nya bot
 - Kalo Erorr apikey nya beli atau ganti sendiri saja
 - Masih Pembangunan
 - Recode dari base ori bochilgaming 
-- Bingung dalam penggunaan masuk aja ke group Diskusi 
+- Kalo bingung dalam penggunaan masuk aja ke group Diskusi 
 
 ## Panel Pterodaktyl
 **Register Here** 
@@ -154,6 +153,13 @@ conn.logger.level = 'trace'
 ```js
 conn.logger.level = 'debug'
 ```
+
+### `--singleauth`
+
+you can convert single file auth to multiple file auth using this argument, it will convert if you have single file auth and folder multi auth is empty (creds.json is not exist)
+
+
+
 #### Thanks To 
 **Allah SWT**,
 
@@ -181,9 +187,9 @@ Creator | Creator |
 <a href="https://github.com/verdihatorou"><img src="https://github.com/verdihatorou.png?size=100" width="100" height="100"></a> | [![Radhin](https://github.com/radhin123.png?size=100)](https://github.com/radhin123) 
 [Verdi](https://github.com/verdihatorou)  | [ Radhin](https://github.com/radhin123)
 Creator | Contributors |
-<a href="https://github.com/Natx-C"><img src="https://github.com/Natx-C.png?size=100" width="100" height="100"></a> | [![Alya Putri](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) 
+<a href="https://github.com/natxdixie"><img src="https://github.com/natxdixie.png?size=100" width="100" height="100"></a> | [![Zivsan](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) 
 ---|---
-[Natx-C](https://github.com/Natx-C)  | [Zivfurr](https://github.com/Zivfurr)
+[Natx-C](https://github.com/natxdixie)  | [Zivfurr](https://github.com/Zivfurr)
 Contributor | Contributor |
 ##### Special Thanks to
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)

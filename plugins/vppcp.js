@@ -16,7 +16,7 @@ handler.help = ['ppcouple']
 handler.tags = ['internet']
 handler.command = /^((pp)?couple|ppcp)$/i
 
-handler.premium = true
+handler.premium = false
 handler.limit = true
 
 export default handler
